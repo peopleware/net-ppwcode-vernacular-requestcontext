@@ -1,0 +1,5 @@
+name: ppwcode-vernacular-requestcontext-i
+version: ~
+title: PPWCode.Vernacular.RequestContext.I
+nav:
+  - modules/ROOT/nav.adoc
