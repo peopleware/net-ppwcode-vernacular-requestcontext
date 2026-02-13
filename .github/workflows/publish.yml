@@ -203,7 +203,7 @@ jobs:
             echo ""
             echo "<br />"
             echo ""
-            echo "[View full changelog →](https://peopleware.github.io/net-ppwcode-docs/ppwcode-util-di-i/changelog.html#${{ steps.get_version.outputs.version_clean }})"
+            echo "[View full changelog →](https://peopleware.github.io/net-ppwcode-docs/ppwcode-vernacular-requestcontext-i/changelog.html#${{ steps.get_version.outputs.version_clean }})"
           } > release_body.md
 
       - name: Add Release Notes to Job Summary
