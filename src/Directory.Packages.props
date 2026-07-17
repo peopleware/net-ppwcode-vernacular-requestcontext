@@ -21,7 +21,7 @@
         <!-- PPWCode -->
         <PackageVersion Include="PPWCode.Vernacular.Contracts.I" Version="1.*" />
         <PackageVersion Include="PPWCode.Util.Authorization.I" Version="1.*" />
-        <PackageVersion Include="PPWCode.Util.Time.I" Version="1.*" />
+        <PackageVersion Include="PPWCode.Util.Time.I" Version="2.*" />
 
         <!-- nunit -->
         <PackageVersion Include="Microsoft.NET.Test.Sdk" Version="18.*" />
