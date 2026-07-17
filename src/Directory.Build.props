@@ -23,7 +23,7 @@
         <RepositoryType>git</RepositoryType>
         <RepositoryUrl>https://github.com/peopleware/net-ppwcode-vernacular-requestcontext.git</RepositoryUrl>
 
-        <PackageTags>ppwcode vernacular requestcontext dotnetcore netcore</PackageTags>
+        <PackageTags>ppwcode vernacular requestcontext dotnetcore netcore gen5</PackageTags>
         <PackageProjectUrl>https://github.com/peopleware/net-ppwcode-vernacular-requestcontext</PackageProjectUrl>
         <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
         <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
